@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+My repository.
+
+Now I type something here and delete something.
